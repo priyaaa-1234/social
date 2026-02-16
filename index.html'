@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="container">
+    <div class="box">
+        <img src="https://cdn-icons-png.flaticon.com/512/25/25660.png" alt="image" class="img">
+        <h3 class="h31">TWITTER</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing  </p>
+        <button class="btn">READ MORE</button>
+    </div>
+    <div class="box">
+        <img src="https://www.iconpacks.net/icons/2/free-instagram-logo-icon-3497-thumb.png" alt="image" class="img">
+        <h3>INSTAGRAM</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing </p>
+        <button class="btn">READ MORE</button>
+    </div>
+    <div class="box">
+        <img src="https://www.iconpacks.net/icons/1/free-youtube-icon-123-thumb.png" alt="image" class="img">
+        <h3 class="h32">YOUTUBE</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing  </p>
+        <button class="btn">READ MORE</button>
+    </div>
+    </div>
+</body>
+</html>
